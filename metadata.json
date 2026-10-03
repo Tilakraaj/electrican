@@ -1,0 +1,6 @@
+{
+  "name": "My Electrician — Electrical Services & Marketplace",
+  "description": "Professional electrician booking platform, live technician tracking, smart electrical products marketplace, and technician dispatch management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
